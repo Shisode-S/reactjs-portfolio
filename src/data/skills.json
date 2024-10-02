@@ -16,15 +16,20 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Jquery",
+    "imageSrc": "skills/jquery.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "Javascript",
+    "imageSrc": "skills/js.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Typescript",
+    "imageSrc": "skills/ts.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/TCSS.png"
   }
+ 
 ]
