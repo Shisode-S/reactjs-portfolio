@@ -8,11 +8,11 @@
     "source": "https://www.github.com"
   },
   {
-    "title": "Food Delivery App",
+    "title": "Food App",
     "imageSrc": "projects/project.png",
     "description": "This is a project made using react , tailwind  and redux .",
     "skills": ["React", "Typescript","Tailwind"],
-    "demo": "https://www.example.com",
+    "demo": "https://cuisine-del-app.netlify.app/",
     "source": "https://www.github.com"
   } 
 ]
